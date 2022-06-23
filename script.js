@@ -38,7 +38,7 @@ time.forEach((el) => {
 
 const myClock = () => {
   // console.clear commentato perché blocca l'esecuzione degli esercizi precedenti
-  console.clear();
+  //   console.clear();
   const hours = new Date().getHours();
   const minutes = new Date().getMinutes();
   const seconds = new Date().getSeconds();
