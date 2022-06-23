@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: red;
+  background-image: url("./HjrVVsTBP8FfZoErpbWn4F.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
